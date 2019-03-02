@@ -23,6 +23,7 @@ public class LoginServlet extends HttpServlet {
         super();
         // TODO Auto-generated constructor stub
         System.out.println("-----------연결연결연결----------");
+        System.out.println("하하하하하하하");
     }
 
 	/**
