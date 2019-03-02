@@ -13,6 +13,6 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="C:/Users/김동욱/Desktop/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/gson-2.8.5.jar"/>
 	<classpathentry kind="output" path="web/WEB-INF/classes"/>
 </classpath>
